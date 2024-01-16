@@ -1,0 +1,3 @@
+dearpygui
+trio
+pyserial
