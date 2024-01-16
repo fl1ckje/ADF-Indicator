@@ -5,6 +5,8 @@
 
 ADF Indicator is a python application for indication direction vector degree received from Arduino UNO
 
+GUI is implemented with [DearPyGUI]. Serial port communication is implemented with [PySerial].
+
 ## Supported operating systems
 Application runs on both Windows and Linux:
 * Windows:
@@ -33,3 +35,6 @@ Check releases page for windows executable builds.
 
 ## Screenshots
 ![Screenshot](https://github.com/fl1ckje/ADFI/blob/master/docs/media/Screenshot.png)
+
+[DearPyGUI]: https://github.com/hoffstadt/DearPyGui/
+[PySerial]: https://github.com/pyserial/pyserial/
