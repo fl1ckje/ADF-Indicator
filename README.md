@@ -17,7 +17,7 @@ Application runs on both Windows and Linux:
   - Arch Linux :white_check_mark:
  
 ## Run quick-guide
-1. Clone GNSS-SDR-Assistant:
+1. Clone ADFI:
 ```sh
 $ git clone https://github.com/fl1ckje/ADFI
 $ cd ADFI
