@@ -1,7 +1,7 @@
 # ADF-Indicator
 ![Maintenance](https://img.shields.io/badge/maintenance-stable-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Discord](https://img.shields.io/badge/chat-on_discord-%237289DA.svg)
+[![Discord](https://img.shields.io/badge/chat-on_discord-%237289DA.svg)](https://discordapp.com/users/346979343995633664)
 
 ADF Indicator is a python application for indication direction vector degree received from Arduino UNO.
 
